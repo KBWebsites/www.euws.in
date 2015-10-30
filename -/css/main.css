@@ -1,0 +1,38 @@
+h1{color:#f00}
+br{clear:both}
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {-webkit-appearance: none; margin: 0}
+
+.header img {max-width: 100%}
+.header {padding-bottom: 15px; border-bottom: 1px solid #e5e5e5}
+.footer {clear:both; padding: 15px 0; border-top: 1px solid #e5e5e5}
+
+.nav-stacked>li>a{padding:5px 10px}
+.header,#nav-pages{margin:15px;text-align:center}
+.fb{border:none; max-width: 500px; height:220px; width:100%}
+.panel{clear:both}
+.btn {padding: 10px 21.5px}
+
+.thumbnail{float:left; margin:5px; text-align:center}
+.thumbnail img{height:fixed}
+.text-justify {text-align: justify}
+
+#nav-pages>li>a{padding:5px 0}
+#nav-pages>li{margin:2px!important;width:16.22%;white-space:nowrap}
+#nav-pages,.well,.footer{margin-left:15px;margin-right:15px}
+
+@media (max-width: 500px) {#nav-pages li {width: 45%;}}
+
+#carousel-home-photo{max-width:100%;margin:0 auto}
+#carousel-home-photo img{object-fit:cover;height:500px;width:100%;}
+#carousel-bye-laws{max-width:750px;margin:0 auto}
+
+#carousel-home-photo.carousel .item {-webkit-transition: opacity 1s; -moz-transition: opacity 1s; -ms-transition: opacity 1s; -o-transition: opacity 1s; transition: opacity 1s;}
+#carousel-home-photo.carousel .active.left, #carousel-home-photo.carousel .active.right {left:0;opacity:0;z-index:2;}
+#carousel-home-photo.carousel .next, #carousel-home-photo.carousel .prev {left:0;opacity:1;z-index:1;}
+
+.committee .thumbnail{height:210px; width:196px}
+.committee h4{font-size: 15px}
+.committee.a .thumbnail{height:182px}
+
+
+.fit-images img{object-fit:cover; width:210px; height:160px}

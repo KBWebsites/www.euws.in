@@ -1,0 +1,24 @@
+- text: <span class="glyphicon glyphicon-home"></span> Home
+  url: /
+- text: Information
+  url: /information/
+- text: Registrations
+  url: /registrations/
+- text: Byelaws
+  url: /byelaws/
+- text: Committee
+  url: /committee/
+- text: Infrastructure
+  url: /infrastructure/
+- text: Accounts
+  url: /accounts/
+- text: Appreciations
+  url: /appreciations/
+- text: Media
+  url: /media/
+- text: Photo Gallery
+  url: /photo-gallery/
+- text: Contributors
+  url: /contributors/
+- text: Contact Us
+  url: /contact-us/

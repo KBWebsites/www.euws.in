@@ -1,0 +1,7 @@
+<div class="thumbnail">
+{% if include.link %}<a href="{{ include.link }}">{% endif %}<img alt="{{ include.name }}" src="{{ include.img }}">{% if include.link %}</a>{% endif %}
+<div class="caption">
+<h4>{% if include.link %}<a href="{{ include.link }}">{{ include.name }}</a>{% else %}{{ include.name }}{% endif %}</h4>
+<h5>{{ include.desc }}</h5>
+</div>
+</div>
