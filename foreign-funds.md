@@ -16,7 +16,7 @@ layout: default
 
 | Date       | Name of the Donor                                     | Amount
 |:----------:|-------------------------------------------------------|-------------:|
-| 11/09/2015 | Preethimol Purayil, U.S.A                             | 2,000.00
-| 11/09/2015 | Anonymous                                             | 666.10
-| 14/09/2015 | Rohit Nair & Saju Nair, U.S.A                         | 19,916.43
-| 18/09/2015 | Govind Damani & Friends, U.S.A                        | 69,216.48
+| 11/09/2015 | Preethimol Purayil, USA                               | 2,000.00
+| 11/09/2015 | Anonymous, USA                                        | 666.10
+| 14/09/2015 | Rohit Nair & Saju Nair, USA                           | 19,916.43
+| 18/09/2015 | Govind Damani & Friends, USA                          | 69,216.48
