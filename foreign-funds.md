@@ -20,3 +20,7 @@ layout: default
 | 11/09/2015 | Anonymous, USA                                        | 666.10
 | 14/09/2015 | Rohit Nair & Saju Nair, USA                           | 19,916.43
 | 18/09/2015 | Govind Damani & Friends, USA                          | 69,216.48
+
+#### October to December
+
+NIL
