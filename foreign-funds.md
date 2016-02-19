@@ -21,7 +21,7 @@ layout: default
 | 11/09/2015 | Saju Nair, USA                                        | 6643.00
 | 11/09/2015 | Rohit Nair, USA                                       | 9957.21
 | 11/09/2015 | Nitu Kushwaha, USA                                    | 3316.22
-| 18/09/2015 | Govind Damani & Friends, USA                          | 69,216.48
+| 18/09/2015 | Govind Damani, USA                                    | 69,216.48
 
 #### October to December
 
