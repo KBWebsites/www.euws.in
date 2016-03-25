@@ -41,6 +41,9 @@ ecommittee:
   img:  bismoy.jpg
   link: https://www.facebook.com/stenwulf.shadowbane
 acommittee:
+- name: Podmeswar Phukan
+  desc: Advisor
+  img:  podmeswar.jpg
 - name: Bijay Kumar Boruah
   desc: Advisor
   img:  bb.jpg
