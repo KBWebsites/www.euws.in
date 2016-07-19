@@ -8,6 +8,7 @@ gallery:
 - /files/registrations/fcra.jpg
 - /files/registrations/aids.jpg
 - /files/registrations/tan.jpg
+- /files/registrations/pan.jpg
 - /files/registrations/trade-license.jpg
 ---
 {% include gallery.htm images=page.gallery image_height=275 %}
