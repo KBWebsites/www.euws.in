@@ -25,10 +25,6 @@ ecommittee:
   desc: Project Manager
   img:  hiren.jpg
   link: https://www.facebook.com/hiren.gogoi.54
-- name: Momina Wasim
-  desc: Project Director
-  img:  momina.jpg
-  link: https://www.facebook.com/animom.misaw
 - name: Swapna G. Nahardeka
   desc: Exec. Member
   img:  sg.jpg
