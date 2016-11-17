@@ -5,6 +5,7 @@ ecommittee:
 - name: Arun Jain
   desc: President
   img:  aj.jpg
+  link: https://www.facebook.com/profile.php?id=100010568193063
 - name: Amardip Singh Dhaliwal
   desc: Vice President
   img:  as.jpg
@@ -21,13 +22,14 @@ ecommittee:
   desc: Treasurer
   img:  mb2.jpg
   link: https://www.facebook.com/manoj.gohain1
-- name: Hiren Gogoi
+- name: Pallabi Pujari
   desc: Project Manager
-  img:  hiren.jpg
-  link: https://www.facebook.com/hiren.gogoi.54
+  img:  pallabi.jpg
+  link: https://www.facebook.com/pallavi.pujari.35
 - name: Swapna G. Nahardeka
   desc: Exec. Member
   img:  sg.jpg
+  link: https://www.facebook.com/profile.php?id=100009180797036
 - name: Wahida Ahmed
   desc: Exec. Member
   img:  wahida.jpg
@@ -37,9 +39,10 @@ ecommittee:
   img:  bismoy.jpg
   link: https://www.facebook.com/stenwulf.shadowbane
 acommittee:
-- name: Podmeswar Phukan
-  desc: Advisor
-  img:  podmeswar.jpg
+- name: Hiren Gogoi
+  desc: Project Manager
+  img:  hiren.jpg
+  link: https://www.facebook.com/hiren.gogoi.54
 - name: Bijay Kumar Boruah
   desc: Advisor
   img:  bb.jpg
