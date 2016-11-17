@@ -56,7 +56,7 @@ acommittee:
 <div class="committee">
 {% for m in page.ecommittee %}
 <div class="thumbnail">
-{% if m.link %}<a href="{{ m.link }}">{% endif %}<img alt="{{ m.name }}" src="/files/committee/{{ m.img }}" height="125">{% if m.link %}</a>{% endif %}
+{% if m.link %}<a href="{{ m.link }}">{% endif %}<div style="background:url(/files/committee/{{ m.img }});background-size:cover;width:125px;height:125px"></div>{% if m.link %}</a>{% endif %}
 <div class="caption">
 <h4>{% if m.link %}<a href="{{ m.link }}">{{ m.name }}</a>{% else %}{{ m.name }}{% endif %}</h4>
 <h5>{{ m.desc }}</h5>
@@ -72,7 +72,7 @@ acommittee:
 <div class="committee a">
 {% for m in page.acommittee %}
 <div class="thumbnail">
-{% if m.link %}<a href="{{ m.link }}">{% endif %}<img alt="{{ m.name }}" src="/files/committee/{{ m.img }}" height="125">{% if m.link %}</a>{% endif %}
+{% if m.link %}<a href="{{ m.link }}">{% endif %}<div style="background:url(/files/committee/{{ m.img }});background-size:cover;width:125px;height:125px"></div>{% if m.link %}</a>{% endif %}
 <div class="caption">
 <h4>{% if m.link %}<a href="{{ m.link }}">{{ m.name }}</a>{% else %}{{ m.name }}{% endif %}</h4>
 <!-- <h5>{{ m.desc }}</h5> -->
