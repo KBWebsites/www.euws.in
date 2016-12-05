@@ -22,10 +22,6 @@ ecommittee:
   desc: Treasurer
   img:  mb2.jpg
   link: https://www.facebook.com/manoj.gohain1
-- name: Pallabi Pujari
-  desc: Project Manager
-  img:  pallabi.jpg
-  link: https://www.facebook.com/pallavi.pujari.35
 - name: Swapna G. Nahardeka
   desc: Exec. Member
   img:  sg.jpg
