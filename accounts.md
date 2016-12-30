@@ -57,6 +57,9 @@ gallery2009:
 - /files/accounts/2009/5.jpg
 - /files/accounts/2009/6.jpg
 ---
+#### Financial Year 2015-16
+{% include gallery.htm images=page.gallery2016 image_height=128 %}
+
 #### Financial Year 2014-15
 {% include gallery.htm images=page.gallery2015 image_height=128 %}
 
