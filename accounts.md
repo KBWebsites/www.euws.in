@@ -1,6 +1,12 @@
 ---
 title: Accounts
 layout: default
+gallery2016:
+- /files/accounts/2016/1.jpg
+- /files/accounts/2016/2.jpg
+- /files/accounts/2016/3.jpg
+- /files/accounts/2016/4.jpg
+- /files/accounts/2016/5.jpg
 gallery2015:
 - /files/accounts/2015/1.JPG
 - /files/accounts/2015/2.JPG
