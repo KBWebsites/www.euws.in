@@ -33,7 +33,7 @@ Office Bearers
 :   Arun Jain — President  
     Amardip Singh Dhaliwal — Vice President  
     Mahendra Bagaria — General Secretary  
-    Shahnawaz Ahmed — Asst. Secretary  
+    Hiren Gogoi — Asst. Secretary  
     Manoj Borgohain — Treasurer  
     Hiren Gogoi — Project Manager  
     Momina Wasim — Exec. Member  

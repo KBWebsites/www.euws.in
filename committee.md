@@ -14,10 +14,10 @@ ecommittee:
   desc: General Secretary
   img:  mb.jpg
   link: https://www.facebook.com/MahendraBagaria
-- name: Shahnawaz Ahmed
+- name: Hiren Gogoi
   desc: Asst. Secretary
-  img:  sna.jpg
-  link: https://www.facebook.com/shahnawaz.ahmed.9887
+  img:  hiren.jpg
+  link: https://www.facebook.com/hiren.gogoi.54
 - name: Manoj Borgohain
   desc: Treasurer
   img:  mb2.jpg
