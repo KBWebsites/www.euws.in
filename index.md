@@ -4,9 +4,9 @@ layout: default
 ---
 <div id="carousel-home-photo" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner">
-    <div class="item active"><img src="/files/activities/dib-flood-relief/10.jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/11.jpg" alt=""></div>
+    <div class="item active"><img src="/files/activities/dib-flood-relief/11.jpg" alt=""></div>
     <div class="item"><img src="/files/activities/dib-flood-relief/12.jpg" alt=""></div>
+    <div class="item"><img src="/files/activities/dib-flood-relief/10.jpg" alt=""></div>
     <div class="item"><img src="/files/activities/dib-flood-relief/(1).jpg" alt=""></div>
     <div class="item"><img src="/files/activities/dib-flood-relief/(2).jpg" alt=""></div>
     <div class="item"><img src="/files/activities/dib-flood-relief/(3).jpg" alt=""></div>

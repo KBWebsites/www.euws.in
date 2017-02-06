@@ -35,10 +35,6 @@ ecommittee:
   img:  bismoy.jpg
   link: https://www.facebook.com/stenwulf.shadowbane
 acommittee:
-- name: Hiren Gogoi
-  desc: Project Manager
-  img:  hiren.jpg
-  link: https://www.facebook.com/hiren.gogoi.54
 - name: Bijay Kumar Boruah
   desc: Advisor
   img:  bb.jpg
