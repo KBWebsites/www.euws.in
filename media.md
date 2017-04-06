@@ -25,6 +25,9 @@ gallery:
 - /files/print-media/2015/4.jpg
 - /files/print-media/2015/5.jpg
 - /files/print-media/2015/6.jpg
+- /files/print-media/20170214.jpg
+- /files/print-media/NAZIRA-MEDIA.jpg
+- /files/print-media/UP-MEDIA.jpg
 ---
 ### Print Media
 {% include gallery.htm images=page.gallery image_height=200 %}
