@@ -4,18 +4,12 @@ layout: default
 ---
 <div id="carousel-home-photo" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner">
-    <div class="item active"><img src="/files/activities/dib-flood-relief/11.jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/12.jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/10.jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(1).jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(2).jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(3).jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(4).jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(5).jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(6).jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(7).jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(8).jpg" alt=""></div>
-    <div class="item"><img src="/files/activities/dib-flood-relief/(9).jpg" alt=""></div>
+    <div class="item active"><img src="/files/slider/1.jpg" alt=""></div>
+    <div class="item"><img src="/files/slider/2.jpg" alt=""></div>
+    <div class="item"><img src="/files/slider/3.jpg" alt=""></div>
+    <div class="item"><img src="/files/slider/4.jpg" alt=""></div>
+    <div class="item"><img src="/files/slider/5.jpg" alt=""></div>
+    <div class="item"><img src="/files/slider/6.jpg" alt=""></div>
 </div>
 <a class="left carousel-control" href="#carousel-home-photo" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
 <a class="right carousel-control" href="#carousel-home-photo" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
