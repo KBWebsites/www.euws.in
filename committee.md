@@ -12,7 +12,7 @@ ecommittee:
   link: https://www.facebook.com/amardipdhaliwal
 - name: Mahendra Bagaria
   desc: General Secretary
-  img:  mb.jpg
+  img:  mb1.jpg
   link: https://www.facebook.com/MahendraBagaria
 - name: Rubi Gogoi
   desc: Asst. Secretary
