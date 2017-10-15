@@ -30,7 +30,7 @@ ecommittee:
   desc: Exec. Member
   img:  wa1.jpg
   link: https://www.facebook.com/wahida.ahmed.5667
-- name: Bismoy Bhardwaj
+- name: Bismoi Bhardwaj
   desc: Exec. Member
   img:  bismoy.jpg
   link: https://www.facebook.com/stenwulf.shadowbane
