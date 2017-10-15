@@ -14,10 +14,10 @@ ecommittee:
   desc: General Secretary
   img:  mb.jpg
   link: https://www.facebook.com/MahendraBagaria
-- name: Hiren Gogoi
+- name: Ruby Gogoi
   desc: Asst. Secretary
-  img:  hiren.jpg
-  link: https://www.facebook.com/hiren.gogoi.54
+  img:  ruby.jpg
+  link: https://www.facebook.com/rubi.gogoi.75457
 - name: Manoj Borgohain
   desc: Treasurer
   img:  mb2.jpg
