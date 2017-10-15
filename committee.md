@@ -28,7 +28,7 @@ ecommittee:
   link: https://www.facebook.com/profile.php?id=100009180797036
 - name: Wahida Ahmed
   desc: Exec. Member
-  img:  wahida.jpg
+  img:  wa1.jpg
   link: https://www.facebook.com/wahida.ahmed.5667
 - name: Bismoy Bhardwaj
   desc: Exec. Member
