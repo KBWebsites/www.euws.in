@@ -4,8 +4,8 @@ layout: default
 ecommittee:
 - name: Arun Jain
   desc: President
-  img:  aj.jpg
-  link: https://www.facebook.com/profile.php?id=100010568193063
+  img:  aj1.jpg
+  link: https://www.facebook.com/bipakshi.mohan
 - name: Amardip Singh Dhaliwal
   desc: Vice President
   img:  as.jpg
@@ -24,7 +24,7 @@ ecommittee:
   link: https://www.facebook.com/manoj.gohain1
 - name: Swapna G. Nahardeka
   desc: Exec. Member
-  img:  sg.jpg
+  img:  sg1.jpg
   link: https://www.facebook.com/profile.php?id=100009180797036
 - name: Wahida Ahmed
   desc: Exec. Member
