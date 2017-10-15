@@ -14,7 +14,7 @@ ecommittee:
   desc: General Secretary
   img:  mb.jpg
   link: https://www.facebook.com/MahendraBagaria
-- name: Ruby Gogoi
+- name: Rubi Gogoi
   desc: Asst. Secretary
   img:  ruby.jpg
   link: https://www.facebook.com/rubi.gogoi.75457
