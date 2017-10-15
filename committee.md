@@ -5,7 +5,7 @@ ecommittee:
 - name: Arun Jain
   desc: President
   img:  aj1.jpg
-  link: https://www.facebook.com/bipakshi.mohan
+  link: https://www.facebook.com/profile.php?id=100010568193063
 - name: Amardip Singh Dhaliwal
   desc: Vice President
   img:  as.jpg
@@ -20,8 +20,8 @@ ecommittee:
   link: https://www.facebook.com/rubi.gogoi.75457
 - name: Manoj Borgohain
   desc: Treasurer
-  img:  mb2.jpg
-  link: https://www.facebook.com/manoj.gohain1
+  img:  mb3.jpg
+  link: https://www.facebook.com/bipakshi.mohan
 - name: Swapna G. Nahardeka
   desc: Exec. Member
   img:  sg1.jpg
