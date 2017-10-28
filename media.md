@@ -2,6 +2,7 @@
 title: Media
 layout: default
 gallery:
+- /files/print-media/12.jpg
 - /files/print-media/1.jpg
 - /files/print-media/2.jpg
 - /files/print-media/3.jpg
