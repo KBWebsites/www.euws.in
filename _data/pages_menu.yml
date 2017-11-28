@@ -10,8 +10,8 @@
   url: /committee/
 - text: Infrastructure
   url: /infrastructure/
-- text: Accounts
-  url: /accounts/
+# - text: Accounts
+#   url: /accounts/
 - text: Appreciations
   url: /appreciations/
 - text: Media
