@@ -3,6 +3,7 @@ title: CTC
 layout: default
 ---
 <h2 style="color: red">Play the game Crack the Code on EUWS</h2>
+<a href="prizes">Prizes</a>
 <h3>First Question....</h3>
 <h4>What runs around the whole yard without moving?</h4>
 <h3>How to Play?</h3>
