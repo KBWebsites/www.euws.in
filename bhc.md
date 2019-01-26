@@ -1,5 +1,5 @@
 ---
-title: BHC
+title: BHC Activities
 layout: default
 galleryA:
     - /files/bhc/awareness-programs/1.jpg
