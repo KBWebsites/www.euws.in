@@ -6,7 +6,7 @@ Name of the Society
 :   Educated Unemployed Welfare Society
 
 Area of Operation
-:   Assam, Arunachal Pradesh and other neighbouring states
+:   Whole of India
 
 Registered Office
 :   Graham Bazar Tinali, Dibrugarh - 786001, Assam
@@ -14,7 +14,7 @@ Registered Office
 Working Office
 :   Thana Charali, Near Overbridge, Dibrugarh - 786001, Assam
 
-NGO Unique ID
+Darpan ID
 :   AS/2009/0023752
 
 Telefax
@@ -30,13 +30,13 @@ Email Address(es)
 :   nidaan@gmail.com / mail@euws.in
 
 Office Bearers
-:   Arun Jain — President  
-    Amardip Singh Dhaliwal — Vice President  
+:   Manoj Borgohain — President  
+    Mitali Baruah — Vice President  
     Mahendra Bagaria — General Secretary  
-    Hiren Gogoi — Asst. Secretary  
-    Manoj Borgohain — Treasurer  
-    Hiren Gogoi — Project Manager  
-    Momina Wasim — Exec. Member  
+    Wahida Ahmed — Asst. Secretary  
+    Runa Das — Treasurer  
+    Udipta Chetia — Project Manager  
+    Mondeep Chakma — Exec. Member  
     Swapna G. Nahardeka — Exec. Member  
     Wahida Ahmed — Exec. Member  
     Bismoy Bhardwaj — Exec. Member
@@ -70,10 +70,10 @@ Tax Deduction A/C No. (TAN)
 
 Main Objectives
 :   Promote Self Employment  
-    Work for Under Privileged  
+    Work for the Under Privileged  
     Women Empowerment  
     Rural Development  
     Work for Human Rights  
     Awareness Generation  
     Environment Protection  
-    Any other kind of Charitable Activities
+    Any other kinds of Charitable Activities
