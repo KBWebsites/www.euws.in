@@ -2,38 +2,34 @@
 title: Committee
 layout: default
 ecommittee:
-- name: Arun Jain
+- name: Manoj Borgohain
   desc: President
-  img:  aj1.jpg
-  link: https://www.facebook.com/profile.php?id=100010568193063
-- name: Amardip Singh Dhaliwal
+  img:  mb3.jpg
+  link: https://www.facebook.com/bipakshi.mohan
+- name: Mitali Baruah
   desc: Vice President
-  img:  as.jpg
-  link: https://www.facebook.com/amardipdhaliwal
+  img:  uc.jpg
+  link: https://www.facebook.com/udipta.chetia.1
 - name: Mahendra Bagaria
   desc: General Secretary
   img:  mb1.jpg
   link: https://www.facebook.com/MahendraBagaria
-- name: Rubi Gogoi
-  desc: Asst. Secretary
-  img:  ruby.jpg
-  link: https://www.facebook.com/rubi.gogoi.75457
-- name: Manoj Borgohain
-  desc: Treasurer
-  img:  mb3.jpg
-  link: https://www.facebook.com/bipakshi.mohan
-- name: Swapna G. Nahardeka
-  desc: Exec. Member
-  img:  sg1.jpg
-  link: https://www.facebook.com/profile.php?id=100009180797036
 - name: Wahida Ahmed
-  desc: Exec. Member
+  desc: Asst. Secretary
   img:  wa1.jpg
   link: https://www.facebook.com/wahida.ahmed.5667
-- name: Bismoi Bhardwaj
+- name: Runa Das
+  desc: Treasurer
+  img:  rd.jpg
+  link: https://www.facebook.com/runa.das.96
+- name: Udipta Chetia
   desc: Exec. Member
-  img:  bismoy.jpg
-  link: https://www.facebook.com/stenwulf.shadowbane
+  img:  mb4.jpg
+  link: https://www.facebook.com/udipta.chetia.1
+- name: Mondeep Chakma
+  desc: Exec. Member
+  img:  mo.jpg
+  link: https://www.facebook.com/mondip.chakma
 acommittee:
 - name: Bijay Kumar Boruah
   desc: Advisor
