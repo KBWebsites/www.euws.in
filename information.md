@@ -35,12 +35,8 @@ Office Bearers
     Mahendra Bagaria — General Secretary  
     Wahida Ahmed — Asst. Secretary  
     Runa Das — Treasurer  
-    Udipta Chetia — Project Manager  
+    Udipta Chetia — Exec. Member  
     Mondeep Chakma — Exec. Member  
-    Swapna G. Nahardeka — Exec. Member  
-    Wahida Ahmed — Exec. Member  
-    Bismoy Bhardwaj — Exec. Member
-
 Advisors
 :   Bijay Kumar Boruah  
     Kabita Gogoi
