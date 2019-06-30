@@ -9,7 +9,7 @@ ecommittee:
 - name: Mitali Baruah
   desc: Vice President
   img:  uc.jpg
-  link: https://www.facebook.com/udipta.chetia.1
+  link: https://www.facebook.com/mithu.baruah.14
 - name: Mahendra Bagaria
   desc: General Secretary
   img:  mb1.jpg
