@@ -9,7 +9,6 @@ gallery2018:
 - /files/accounts/2018/4.jpg
 - /files/accounts/2018/5.jpg
 - /files/accounts/2018/6.jpg
-- /files/accounts/2018/7.jpg
 gallery2017:
 - /files/accounts/2017/1.jpg
 - /files/accounts/2017/2.jpg
