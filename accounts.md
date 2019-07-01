@@ -22,6 +22,7 @@ gallery2016:
 - /files/accounts/2016/C.jpg
 - /files/accounts/2016/D.jpg
 - /files/accounts/2016/E.jpg
+- /files/accounts/2016/F.jpg
 gallery2015:
 - /files/accounts/2015/1.JPG
 - /files/accounts/2015/2.JPG
