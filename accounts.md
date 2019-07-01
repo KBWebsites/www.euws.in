@@ -3,19 +3,19 @@ title: Accounts
 layout: default
 
 gallery2018:
-- /files/accounts/2018/1.jpg
-- /files/accounts/2018/2.jpg
-- /files/accounts/2018/3.jpg
-- /files/accounts/2018/4.jpg
-- /files/accounts/2018/5.jpg
-- /files/accounts/2018/6.jpg
+- /files/accounts/2018/A.jpg
+- /files/accounts/2018/B.jpg
+- /files/accounts/2018/C.jpg
+- /files/accounts/2018/D.jpg
+- /files/accounts/2018/E.jpg
+- /files/accounts/2018/F.jpg
 gallery2017:
-- /files/accounts/2017/1.jpg
-- /files/accounts/2017/2.jpg
-- /files/accounts/2017/3.jpg
-- /files/accounts/2017/4.jpg
-- /files/accounts/2017/5.jpg
-- /files/accounts/2017/6.jpg
+- /files/accounts/2017/A.jpg
+- /files/accounts/2017/B.jpg
+- /files/accounts/2017/C.jpg
+- /files/accounts/2017/D.jpg
+- /files/accounts/2017/E.jpg
+- /files/accounts/2017/F.jpg
 gallery2016:
 - /files/accounts/2016/A.jpg
 - /files/accounts/2016/B.jpg
