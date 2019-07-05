@@ -3,12 +3,12 @@ title: Accounts
 layout: default
 
 gallery2018:
-- /files/accounts/2018/A.jpg
 - /files/accounts/2018/B.jpg
 - /files/accounts/2018/C.jpg
+- /files/accounts/2018/F.jpg
 - /files/accounts/2018/D.jpg
 - /files/accounts/2018/E.jpg
-- /files/accounts/2018/F.jpg
+- /files/accounts/2018/A.jpg
 gallery2017:
 - /files/accounts/2017/A.jpg
 - /files/accounts/2017/B.jpg
@@ -75,31 +75,31 @@ gallery2009:
 ---
 
 #### Financial Year 2017-18
-{% include gallery.htm images=page.gallery2018 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2018 image_width=80 %}
 
 #### Financial Year 2016-17
-{% include gallery.htm images=page.gallery2017 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2017 image_width=80 %}
 
 #### Financial Year 2015-16
-{% include gallery.htm images=page.gallery2016 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2016 image_width=80 %}
 
 #### Financial Year 2014-15
-{% include gallery.htm images=page.gallery2015 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2015 image_width=80 %}
 
 #### Financial Year 2013-14
-{% include gallery.htm images=page.gallery2014 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2014 image_width=80 %}
 
 #### Financial Year 2012-13
-{% include gallery.htm images=page.gallery2013 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2013 image_width=80 %}
 
 #### Financial Year 2011-12
-{% include gallery.htm images=page.gallery2012 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2012 image_width=80 %}
 
 #### Financial Year 2010-11
-{% include gallery.htm images=page.gallery2011 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2011 image_width=80 %}
 
 #### Financial Year 2009-10
-{% include gallery.htm images=page.gallery2010 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2010 image_width=80 %}
 
 #### Financial Year 2008-09
-{% include gallery.htm images=page.gallery2009 image_height=128 %}
+{% include gallery_width.htm images=page.gallery2009 image_width=80 %}
