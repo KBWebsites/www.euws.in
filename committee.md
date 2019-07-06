@@ -6,7 +6,7 @@ ecommittee:
   desc: President
   img:  mb3.jpg
   link: https://www.facebook.com/bipakshi.mohan
-- name: Mitali Baruah
+- name: Mitalima Baruah
   desc: Vice President
   img:  uc.jpg
   link: https://www.facebook.com/mithu.baruah.14
@@ -22,11 +22,11 @@ ecommittee:
   desc: Treasurer
   img:  rd.jpg
   link: https://www.facebook.com/runa.das.96
-- name: Udipta Chetia
+- name: Udipta Chetia Phukan
   desc: Exec. Member
   img:  mb4.jpg
   link: https://www.facebook.com/udipta.chetia.1
-- name: Mondeep Chakma
+- name: Mondip Chakma
   desc: Exec. Member
   img:  mo.jpg
   link: https://www.facebook.com/mondip.chakma
