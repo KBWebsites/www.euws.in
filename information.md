@@ -31,12 +31,12 @@ Email Address(es)
 
 Office Bearers
 :   Manoj Borgohain — President  
-    Mitali Baruah — Vice President  
+    Mitalima Baruah — Vice President  
     Mahendra Bagaria — General Secretary  
     Wahida Ahmed — Asst. Secretary  
     Runa Das — Treasurer  
-    Udipta Chetia — Exec. Member  
-    Mondeep Chakma — Exec. Member  
+    Udipta Chetia Phukan — Exec. Member  
+    Mondip Chakma — Exec. Member  
 Advisors
 :   Bijay Kumar Boruah  
     Kabita Gogoi
