@@ -37,7 +37,7 @@ gallery-dib:
 - /files/activities/dib-flood-relief/(4).jpg
 - /files/activities/dib-flood-relief/(6).jpg
 ---
-### Moran
+### Itakhuli
 {% include gallery.htm images=page.gallery-mor image_height=150 %}
 
 ### Dibrugarh
