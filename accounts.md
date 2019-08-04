@@ -2,11 +2,11 @@
 title: Accounts
 layout: default
 gallery2019:
-- /files/accounts/2019/2.jpg
-- /files/accounts/2019/3.jpg
-- /files/accounts/2019/4.jpg
-- /files/accounts/2019/5.jpg
-- /files/accounts/2019/6.jpg
+- /files/accounts/2019/ca.jpg
+- /files/accounts/2019/comp.jpg
+- /files/accounts/2019/bs.jpg
+- /files/accounts/2019/ie.jpg
+- /files/accounts/2019/rp.jpg
 gallery2018:
 - /files/accounts/2018/A.jpg
 - /files/accounts/2018/B.jpg
