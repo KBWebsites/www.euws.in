@@ -2,7 +2,7 @@
 title: Registrations
 layout: default
 gallery:
-- /files/registrations/society.jpg
+- /files/registrations/societyr.jpg
 - /files/registrations/12a.jpg
 - /files/registrations/80g.jpg
 - /files/registrations/fcra2016.jpg
