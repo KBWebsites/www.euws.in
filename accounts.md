@@ -2,6 +2,7 @@
 title: Accounts
 layout: default
 gallery2019:
+- /files/accounts/2019/itr.jpg
 - /files/accounts/2019/ca.jpg
 - /files/accounts/2019/comp.jpg
 - /files/accounts/2019/bs.jpg
