@@ -44,16 +44,9 @@ Advisors
 Registrations
 :   Under the Societies Registration Act, 1860  
     U/S 12A(a) of the Income Tax Act, 1961  
-    U/S 80G (5)(vi) of the Income Tax Act, 1961  
-    U/S 6(1)(a) of the Foreign Contribution (Regulation) Act, 1976 (Reg. No. 020750016)
+    U/S 80G (5)(vi) of the Income Tax Act, 1961
 
-Bank Details (F.C. A/C)
-:   The Federal Bank Ltd., Chirwapatty, Tinsukia - 786125, Assam  
-    Savings Bank A/C No: 11980100113737  
-    IFS Code : FDRL0001198  
-    SWIFT Code : FDRLINBBIBD
-
-Bank Details (Non F.C. A/C)
+Bank Details
 :   The Federal Bank Ltd., Chirwapatty, Tinsukia - 786125, Assam  
     Savings Bank A/C No: 11980100138551  
     IFS Code : FDRL0001198
