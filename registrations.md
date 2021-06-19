@@ -3,8 +3,8 @@ title: Registrations
 layout: default
 gallery:
 - /files/registrations/societyr.jpg
-- /files/registrations/12a.jpg
-- /files/registrations/80g.jpg
+- /files/registrations/new-12a.jpg
+- /files/registrations/new-80g.jpg
 - /files/registrations/fcra2016.jpg
 - /files/registrations/aids.jpg
 - /files/registrations/tan.jpg
