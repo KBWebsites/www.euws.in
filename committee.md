@@ -21,11 +21,11 @@ ecommittee:
   link: https://www.facebook.com/wahida.ahmed.5667
 - name: Benazeer Khatun
   desc: Treasurer
-  img:  rd.jpg
+  img:  df-g.jpg
   link: https://www.facebook.com/profile.php?id=100007493717151
 - name: Popi Kalita Hazarika
   desc: Exec. Member
-  img:  mb4.jpg
+  img:  pkh.jpg
 - name: Mondip Chakma
   desc: Exec. Member
   img:  mo.jpg
