@@ -2,6 +2,7 @@
 title: Committee
 layout: default
 ecommittee:
+
 - name: Manoj Borgohain
   desc: President
   img:  mb3.jpg
@@ -18,26 +19,22 @@ ecommittee:
   desc: Asst. Secretary
   img:  wa1.jpg
   link: https://www.facebook.com/wahida.ahmed.5667
-- name: Runa Das
+- name: Benazeer Khatun
   desc: Treasurer
   img:  rd.jpg
-  link: https://www.facebook.com/runa.das.96
-- name: Udipta Chetia Phukan
+  link: https://www.facebook.com/profile.php?id=100007493717151
+- name: Popi Kalita Hazarika
   desc: Exec. Member
   img:  mb4.jpg
-  link: https://www.facebook.com/udipta.chetia.1
 - name: Mondip Chakma
   desc: Exec. Member
   img:  mo.jpg
   link: https://www.facebook.com/mondip.chakma
 acommittee:
-- name: Bijay Kumar Boruah
-  desc: Advisor
-  img:  bb.jpg
-- name: Kabita Gogoi
-  desc: Advisor
-  img:  kabita.jpg
-  link: https://www.facebook.com/kabita.gogoi.906
+- name: Ramesh Gohain
+  desc: Chief Advisor
+  img:  rg.jpg
+  link: https://www.facebook.com/ramesh.gohain.399
 ---
 ### Executive Committee
 

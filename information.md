@@ -30,26 +30,25 @@ Email Address(es)
 :   nidaan@gmail.com / mail@euws.in
 
 Office Bearers
-:   Manoj Borgohain — President  
-    Mitalima Baruah — Vice President  
-    Mahendra Bagaria — General Secretary  
-    Wahida Ahmed — Asst. Secretary  
-    Runa Das — Treasurer  
-    Udipta Chetia Phukan — Exec. Member  
-    Mondip Chakma — Exec. Member  
+:   Manoj Borgohain — President
+    Mitalima Baruah — Vice President
+    Mahendra Bagaria — General Secretary
+    Wahida Ahmed — Asst. Secretary
+    Benazeer Khatun — Treasurer
+    Popi Kalita Hazarika — Exec. Member
+    Mondip Chakma — Exec. Member
 Advisors
-:   Bijay Kumar Boruah  
-    Kabita Gogoi
+:   Ramesh Gohain
 
 Registrations
-:   Under the Societies Registration Act, 1860  
-    U/S 12A(a) of the Income Tax Act, 1961  
+:   Under the Societies Registration Act, 1860
+    U/S 12A(a) of the Income Tax Act, 1961
     U/S 80G (5)(vi) of the Income Tax Act, 1961
 
 Bank Details
-:   The Federal Bank Ltd., Chirwapatty, Tinsukia - 786125, Assam  
-    Savings Bank A/C No: 11980100138551  
-    IFS Code : FDRL0001198
+:   State Bank of India, New Delhi Main Branch, 11, Sansad Marg, New Delhi - 110001
+    Savings Bank A/C No: 40617140677
+    IFS Code : SBIN0000691
 
 Permanent A/C No. (PAN)
 :   AAATE1765G
@@ -58,11 +57,11 @@ Tax Deduction A/C No. (TAN)
 :   SHLE00689D
 
 Main Objectives
-:   Promote Self Employment  
-    Work for the Under Privileged  
-    Women Empowerment  
-    Rural Development  
-    Work for Human Rights  
-    Awareness Generation  
-    Environment Protection  
+:   Promote Self Employment
+    Work for the Under Privileged
+    Women Empowerment
+    Rural Development
+    Work for Human Rights
+    Awareness Generation
+    Environment Protection
     Any other kinds of Charitable Activities
